@@ -5,7 +5,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/JoaoVictorDiasDev/PetMatch/badge.svg?branch=main)](https://coveralls.io/github/JoaoVictorDiasDev/PetMatch?branch=main)
 
-Link heroku: 
+Link heroku: (aguardando liberação dos créditos de estudante)
 
 
 ## Participantes:
