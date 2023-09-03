@@ -5,7 +5,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/JoaoVictorDiasDev/PetMatch/badge.svg?branch=main)](https://coveralls.io/github/JoaoVictorDiasDev/PetMatch?branch=main)
 
-Link heroku: (aguardando liberação dos créditos de estudante)
+Link heroku:  https://still-gorge-57946-96c1c9947311.herokuapp.com/
 
 
 ## Participantes:
