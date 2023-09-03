@@ -1,0 +1,13 @@
+# .coveralls.yml
+
+# Repository token
+repo_token: uqQNT4h5y7OnvOsxq4WL14xWrQO6AFVn3
+
+# Repository name
+repo_name: JoaoVictorDiasDev/PetMatch
+
+# Coveralls endpoint
+endpoint: https://coveralls.io
+
+# Carryforward flags (or all to carry-forward all previous jobs)
+carryforward: all

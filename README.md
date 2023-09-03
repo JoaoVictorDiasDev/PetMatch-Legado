@@ -3,7 +3,7 @@
 
 [![Code Climate](https://codeclimate.com/github/JoaoVictorDiasDev/PetMatch.png)](https://codeclimate.com/github/JoaoVictorDiasDev/PetMatch)
 
-[![Coverage Status](https://coveralls.io/repos/github/JoaoVictorDiasDev/PetMatch/badge.svg?branch=main)](https://coveralls.io/github/JoaoVictorDiasDev/PetMatch?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/JoaoVictorDiasDev/PetMatch/badge.svg?branch=master)](https://coveralls.io/github/JoaoVictorDiasDev/PetMatch?branch=master)
 
 Link heroku:  https://still-gorge-57946-96c1c9947311.herokuapp.com/
 

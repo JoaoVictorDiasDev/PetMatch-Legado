@@ -45,6 +45,7 @@ group :development, :test do
   gem "rspec-rails", '~> 6.0.0'
   gem 'cucumber-rails', require: false
   gem 'database_cleaner'
+  gem 'simplecov', require: false, group: :test
 end
 
 group :development do
